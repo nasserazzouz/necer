@@ -1,0 +1,45 @@
+#img1{
+    width: 64PX;
+    height: 64PX;
+    
+    border-radius: 50%;
+    
+}
+main{
+    text-align: center;
+   
+}
+#text{
+  width: 98%;
+ height: 288px;
+  border-radius:14PX ;
+  border: 2PX solid red;
+
+}
+#buttons{
+    display: flex;
+    justify-content: space-evenly;
+}
+#buttons button {
+    width: 47%;
+    border-radius: 14px;
+    border: none;
+padding: 12PX;
+}
+#DD{
+    background-color: RED;
+    color: white;
+}
+#NN{ background-color: green;
+    color: white;
+}
+    #PB{
+        
+padding: 10px;
+border-bottom:1PX solid red ;
+margin:8px 0 ;
+font-weight: bold;
+    }
+    #vov{
+        max-width: 100% !important;
+    }
